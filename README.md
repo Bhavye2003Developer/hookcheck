@@ -135,9 +135,3 @@ npm run lint    # ESLint
 ```
 
 ---
-
-## Built With
-
-This project is built with **[Claude Code](https://claude.ai/code)** by Anthropic, an agentic coding tool that writes, edits, and ships code through natural conversation.
-
----
