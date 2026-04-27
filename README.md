@@ -2,7 +2,7 @@
 
 **Scan dependency manifests for malicious, suspicious, and vulnerable packages. All checks run entirely in your browser.**
 
-Hook Check is built to address a real and growing attack vector: AI coding assistants hallucinate package names, and threat actors register those names on public registries within hours, pre-loaded with malicious install scripts. Hook Check audits every package in your manifest before a single byte executes.
+Hook Check is built to address a real and growing attack vector: AI coding assistants like claude or codex hallucinate package names, and threat actors register those names on public registries within hours, pre-loaded with malicious install scripts. Hook Check audits every package in your manifest before a single byte executes.
 
 ---
 
